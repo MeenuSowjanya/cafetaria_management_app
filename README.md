@@ -1,6 +1,6 @@
 # Hello!🖐 & Welome to [A Cup of Joy]()
 
-### To get complete eperience of the platform visit *_[HotCafe.com]()_* and login via *admin* role
+### To get complete eperience of the platform visit *_[ACupOfJoy.com]()_* and login via *admin* role
 
 | Name | Email | Password | Role |
 |----  |  -----|  ------- |----  |
