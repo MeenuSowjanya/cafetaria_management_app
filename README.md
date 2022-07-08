@@ -11,7 +11,7 @@
 
 ![Screenshot (276)](https://user-images.githubusercontent.com/56788911/135817030-563a5ba7-d065-41a9-8150-191c9e80db94.png)
 
-
+image.png
 
 I am Meenu Sowjanya and this is my project , a Cafeteria Management System built on Rails which supports multiple users and roles like admin, customer, and billing-clerk.
 
