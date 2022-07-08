@@ -40,5 +40,5 @@ Nobody can sign-up as an owner. Instead, the live application comes with an owne
 - Owner can manage the menu
 - Owner can see reports such as : Sale Reports for any given date range , see details of a single invoice , apply filter on orders to list orders during a particular time period.
 - Owner can manage users : They can see the list of all users - customers, billing-clerks, and other owners.
-- They can create and update billing clerks and owners.
+- They can create and update billing clerks and also owners.
 
